@@ -1,0 +1,16 @@
+.character-card {
+    max-width: 150px;
+    min-width: 100px;
+    border:1px solid #ccc;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+}
+
+.character-card img {
+    width: 70px;
+    height:70px;
+    border-radius: 50%;
+
+}
